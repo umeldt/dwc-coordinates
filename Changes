@@ -1,0 +1,6 @@
+Revision history for Perl extension DwC::Plugin::Geography.
+
+0.01  Thu Apr 19 16:24:39 2018
+	- original version; created by h2xs 1.23 with options
+		-AX DwC::Plugin::Geography
+

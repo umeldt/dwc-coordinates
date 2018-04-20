@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/dwc-coordinates.t
+lib/DwC/Plugin/Coordinates.pm
